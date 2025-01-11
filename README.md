@@ -15,6 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## 🏆 GitHub Trophies:
+![Trophy](https://github-profile-trophy.vercel.app/?username=yourusername&theme=darkhub)
+
+
 ## 📊 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hyadess&show_icons=true&theme=dark&count_private=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hyadess&layout=compact&theme=dark)

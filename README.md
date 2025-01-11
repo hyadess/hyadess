@@ -1,6 +1,6 @@
 ## Hi there, I am Sayem Shahad Soummo 👋
--  I’m currently working on Large Language Models
--  I like to solve problems, face new challenges, and enjoy the process
+- 🌱 I’m currently working on Large Language Models
+- ⚡ I like to solve problems, face new challenges, and enjoy the process
 <!--
 **hyadess/hyadess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

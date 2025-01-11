@@ -2,9 +2,10 @@
 - 🌱 I’m currently working on Large Language Models
 - ⚡ I like to solve problems, face new challenges, and enjoy the process
 
-## 📫 My CV
+<!--## 📫 My CV
 
 [![Download_CV](https://img.shields.io/badge/Download-PDF-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://raw.githubusercontent.com/hyadess/hyadess/main/sayem_shahad_cv.pdf)
+-->
 
 <!--
 **hyadess/hyadess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

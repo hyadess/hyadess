@@ -2,6 +2,8 @@
 - 🌱 I’m currently working on Large Language Models
 - ⚡ I like to solve problems, face new challenges, and enjoy the process
 
+## 📫 My CV
+
 [![Download_CV](https://img.shields.io/badge/Download-PDF-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://raw.githubusercontent.com/yourusername/yourrepo/main/assets/yourfile.pdf)
 
 <!--

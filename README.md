@@ -2,7 +2,7 @@
 - 🌱 I’m currently working on Large Language Models
 - ⚡ I like to solve problems, face new challenges, and enjoy the process
 
-Download My CV [![Download my CV](https://img.shields.io/badge/Download-PDF-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://raw.githubusercontent.com/yourusername/yourrepo/main/assets/yourfile.pdf)
+![Download my CV](https://img.shields.io/badge/Download-PDF-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://raw.githubusercontent.com/yourusername/yourrepo/main/assets/yourfile.pdf)
 
 <!--
 **hyadess/hyadess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

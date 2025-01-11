@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ## 🏆 GitHub Trophies:
-![Trophy](https://github-profile-trophy.vercel.app/?username=yourusername&theme=darkhub)
+![Trophy](https://github-profile-trophy.vercel.app/?username=hyadess&theme=darkhub)
 
 
 ## 📊 GitHub Stats:

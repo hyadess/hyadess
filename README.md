@@ -18,6 +18,10 @@ Here are some ideas to get you started:
 ## 🏆 GitHub Trophies:
 ![Trophy](https://github-profile-trophy.vercel.app/?username=hyadess&theme=darkhub)
 
+## 🔥 Streak Stats:
+![Streak Stats](https://streak-stats.demolab.com/?user=hyadess&theme=dark)
+
+
 
 ## 📊 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hyadess&show_icons=true&theme=dark&count_private=true)

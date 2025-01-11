@@ -29,10 +29,15 @@ Here are some ideas to get you started:
 ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![FastAPI](https://img.shields.io/badge/FastAPI-%2300C7B7.svg?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Postgres](https://img.shields.io/badge/Postgres-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-%23003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-%23F0F0F0.svg?style=for-the-badge&logo=langchain&logoColor=blue)
+![Streamlit](https://img.shields.io/badge/Streamlit-%FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
+![Chroma DB](https://img.shields.io/badge/ChromaDB-%230C8EDD.svg?style=for-the-badge&logo=databricks&logoColor=white)
+
 
 
 
